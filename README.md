@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DevDevvy
-- 👀 I’m a multi media content producer and web dev.
-- 🌱 I’m currently learning python and javascript
+- 👀 I’m a multi media content producer and software developer.
+- 🌱 I’m currently learning full-stack development at NAshville Software School
+- HTML, CSS, Bootstrap, JavaScript, React.js, Python, Django, SQLite
 
 - 📫 randallthomasmusic@gmail.com
 
