@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full-stack development at Nashville Software School
 - HTML, CSS, Bootstrap, JavaScript, React.js, Python, Django, SQLite
 
-- 📫 randallthomasmusic@gmail.com
+- 📫 thesingingdev@gmail.com
 
 Thanks for dropping by, let me tell you a few things about myself...
 
