@@ -24,19 +24,13 @@ Thanks for dropping by, let me tell you a few things about myself...
 
 <h3 align="center">How I Got Into Development</h3>
 
-My life has consisted of interacting with complex ideas while utilizing highly sophisticated software and equipment. 
-
-As a writer and musician, I have been self taught in many major DAW recording applications including ProTools, Ableton, Logic Pro, and various peripheral software applications. Because of these interactions using music, I have always been curious about what lies "behind the hood" in the applications I utilize every day. 
-
-When my interest was piqued about development, it seemed I was getting the message from every side: Go to NSS bootcamp.
-
-I was accepted into Nashville Software School, and have since February 2022 been a part of NSS full-stack, full-time web development course. This github repo is a testament to my growth and stands as a way to mark my own growth and learning. 
+Shortly after graduating from Nashville Software School, I recieved contract work from Z Axis Solutions for full-stack MERN work on various websites. About a month later I was hired on full time to be a part of an application development team under contract with Z Axis Solutions. After two months on the team I was promoted to senior and lead backend for web. I am also a certified EngineerKit Level 1 mentor using the Transformational Coaching framework. I love solving complex problems and helping people realize their goals. I see both as the same function of breaking down problems into small manageable steps, and executing the first step.
 
 <h3 align="center">My Plans As A Dev</h3>
 
 My journey in life has been one of perpetual growth and learning. I see no reaon why that should ever stop- hence part of the reason why I chose to become a developer is to be immersed in an ever changing world of endless knowledge. My plans are to grow and develop my skills and knowledge as long as I breathe. I always keep in mind user experience and accessability. 
 
-I love design and front-end work, but I am also highly analytical and curious which suits my full-stack endeavors. 
+I love design and front-end work, but I am also highly analytical and curious which suits my full-stack endeavors. My work has had me working across the MERN stack mainly and I am looking for an opportunity to learn more languages, frameworks, and grow as a developer.
 
 <h3 align="center">My Career As A Musician</h3>
 
