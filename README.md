@@ -1,19 +1,5 @@
-<div align="center">
-<img height="50" margin-inline="10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png"/><img height="50" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png"/>
-<img height="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-1024.png"/>
-<img height="50" src="https://cdn0.iconfinder.com/data/icons/file-format-database-j-fill/64/database_file_document-56-1024.png"/>
-<img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-1024.png"/>
-<img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"/>
-</div>
-<h1 align="center">👋 Hi, I’m Randall - "The Singing Dev"</h1>
-Thanks for dropping by, let me tell you a few things about myself...
 
-- I am a versatile multimedia content producer and software/web developer with a passion for blending creative design with technical expertise.
-- Currently, I am enhancing my skills through a rigorous full-stack web development program at Nashville Software School.
-- My skill set includes proficient writing, vocal performance, and a keen aptitude for solving complex puzzles, all of which contribute to my analytical and creative problem-solving abilities.
-- I have a deep appreciation for music and a strong interest in exploring and understanding complex topics across various disciplines.
-- Please feel free to reach out to discuss opportunities in software/web development, music, or even just to exchange ideas and insights.
-- 📫 randall@digitalforge-tek.com
+<h1 align="center">👋 Hi, I’m Randall - "The Singing Dev" or Rand The Automator...</h1>
 
 
 
