@@ -13,5 +13,7 @@ With a diverse background encompassing music, writing, and over a decade of mana
 
 In every project, my goal is to blend the precision of technology with the creativity of the arts, delivering solutions that are not only effective but also innovative and forward-thinking. This unique perspective makes our company a leader in developing tailored solutions that meet the complex demands of the modern digital landscape.
 
+I have multiple other repos connected to me, so what you see here is only part of my work.
+
 
 
