@@ -3,7 +3,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdevvy&show_icons=true&theme=cobalt&hide=stars,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdevvy&layout=compact&theme=cobalt)](https://github.com/devdevvy/github-readme-stats)
 
 
