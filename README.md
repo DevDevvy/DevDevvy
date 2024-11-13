@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I’m Randall - "The Singing Dev" or Rand The Automator...</h1>
+<h1 align="center">👋 Hi, I’m Randall - Developer and Creative</h1>
 
 
 
@@ -9,9 +9,29 @@
 
 ## Professional Summary
 
-With a diverse background encompassing music, writing, and over a decade of management experience in the service industry, I have developed a unique skill set that seamlessly integrates creativity with technology. As a musician and artist, I honed my ability to think creatively and solve problems dynamically, traits that have proven invaluable in the tech industry. My journey into technology began with a passion for understanding systems, which led me to coding and software development.
+With a background that spans software development, digital security, and content creation, my work aims to bridge the gap between cutting-edge technology and accessible user experience. I’m passionate about crafting solutions that not only perform well but also empower users, safeguard their data, and inspire curiosity.
 
-In every project, my goal is to blend the precision of technology with the creativity of the arts, delivering solutions that are not only effective but also innovative and forward-thinking. This unique perspective makes our company a leader in developing tailored solutions that meet the complex demands of the modern digital landscape.
+Technical Expertise
+Development & Engineering:
+
+Proficient in JavaScript/TypeScript, Golang, Python, HTML5, CSS3, and LLM development
+Skilled in front-end and back-end frameworks such as React, Node.js, Django, and Next.js
+Hands-on experience with cloud services and IaaS for scalable and reliable deployments
+
+Security+ Certified with a focus on secure coding and network security
+Aiming to bring empathy and ethics into security education, advocating for digital safety and awareness, especially for future generations
+
+Content Creation & Education:
+
+Creator of Randy and the Techpocalypse, an educational platform that uses humor and storytelling to make cybersecurity and tech topics accessible and engaging
+Skilled in crafting narratives and educational content across LinkedIn, Medium, and social media, making complex ideas approachable and fun
+
+Randy and the Techpocalypse: Through a unique character, Randy, I’m teaching cybersecurity fundamentals with a humorous twist. This platform offers insights on digital safety, blending world-building with practical security tips to make learning interactive and memorable.
+
+## My Vision
+I’m a systems thinker and lifelong learner, continuously working to fuse technology, empathy, and creativity. Whether through secure applications, transformative platforms, LLM feature and platform development, or meaningful content, my goal is to make a positive, lasting impact in tech and beyond.
+
+Thanks for visiting my repository, and feel free to reach out if you’d like to collaborate, discuss projects, or simply connect!
 
 I have multiple other repos connected to me, so what you see here is only part of my work.
 
