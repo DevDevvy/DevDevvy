@@ -5,11 +5,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdevvy&layout=compact&theme=cobalt)](https://github.com/devdevvy/github-readme-stats)
 
-
+Greetings! This is one of many repos I contribute to - though this is the only one that has been made public. 
 
 ## Professional Summary
 
-With a background that spans software development, digital security, and content creation, my work aims to bridge the gap between cutting-edge technology and accessible user experience. I’m passionate about crafting solutions that not only perform well but also empower users, safeguard their data, and inspire curiosity.
+Full Stack Platform Engineer who transforms complex technical challenges into elegant, scalable solutions. My foundation in secure system design is backed by Security+ certification, with a focus on building robust platforms that make smart use of AI capabilities. What sets me apart is my analytical approach to engineering problems—shaped by 15 years in the music industry—which helps me spot patterns and solutions others might miss.
+
+My mix of technical expertise and creative background lets me bridge the gap between business needs and technical execution, always keeping the end user in mind. I believe in building technology that makes a real difference, focusing on ethical implementation and solutions that work for people first.
+
 
 Technical Expertise
 Development & Engineering:
@@ -20,13 +23,6 @@ Hands-on experience with cloud services and IaaS for scalable and reliable deplo
 
 Security+ Certified with a focus on secure coding and network security
 Aiming to bring empathy and ethics into security education, advocating for digital safety and awareness, especially for future generations
-
-Content Creation & Education:
-
-Creator of Randy and the Techpocalypse, an educational platform that uses humor and storytelling to make cybersecurity and tech topics accessible and engaging
-Skilled in crafting narratives and educational content across LinkedIn, Medium, and social media, making complex ideas approachable and fun
-
-Randy and the Techpocalypse: Through a unique character, Randy, I’m teaching cybersecurity fundamentals with a humorous twist. This platform offers insights on digital safety, blending world-building with practical security tips to make learning interactive and memorable.
 
 ## My Vision
 I’m a systems thinker and lifelong learner, continuously working to fuse technology, empathy, and creativity. Whether through secure applications, transformative platforms, LLM feature and platform development, or meaningful content, my goal is to make a positive, lasting impact in tech and beyond.
