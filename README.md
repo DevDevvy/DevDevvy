@@ -3,7 +3,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdevvy&layout=compact&theme=cobalt)](https://github.com/devdevvy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdevvy&layout=compact&theme=cobalt)]
 
 Greetings! This is one of many repos I contribute to - though this is the only one that has been made public. 
 
