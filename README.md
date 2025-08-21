@@ -3,8 +3,6 @@
 
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2531436" style='border:none;'></iframe>
-
 Greetings! This is one of many repos I contribute to - though this is the only one that has been made public. 
 
 ## Professional Summary
