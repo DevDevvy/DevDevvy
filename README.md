@@ -1,6 +1,7 @@
 
 <h1 align="center">👋 Hi, I’m Randall - Developer and Creative</h1>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/randallthomasmus.png" alt="Your Image Badge" />
 
 
 Greetings! This is one of many repos I contribute to - though this is the only one that has been made public. 
