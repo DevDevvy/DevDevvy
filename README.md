@@ -34,28 +34,33 @@
 Greetings! This is one of many repos I contribute to - though this is the only one that has been made public. 
 
 ## Professional Summary
+I’m a Full Stack Platform Engineer and tech enthusiast with a deep passion for security, privacy, and ethical technology. My journey started in the music industry, where I honed creativity and pattern recognition over 15 years. Today, I channel that same creativity into software engineering, pentesting, and red teaming, focusing on secure, scalable solutions that make a real impact.
 
-Full Stack Platform Engineer who transforms complex technical challenges into elegant, scalable solutions. My foundation in secure system design is backed by Security+ certification, with a focus on building robust platforms that make smart use of AI capabilities. What sets me apart is my analytical approach to engineering problems—shaped by 15 years in the music industry—which helps me spot patterns and solutions others might miss.
+I hold a CompTIA Security+ (and working on more) certification and bring a strong foundation in secure system design. What sets me apart is my ability to combine analytical problem-solving with creative thinking—helping me spot vulnerabilities, engineer defenses, and deliver robust platforms that balance performance, security, and usability.
 
-My mix of technical expertise and creative background lets me bridge the gap between business needs and technical execution, always keeping the end user in mind. I believe in building technology that makes a real difference, focusing on ethical implementation and solutions that work for people first.
+### Technical Expertise
 
+Development & Engineering
 
-Technical Expertise
-Development & Engineering:
+Proficient in JavaScript/TypeScript, Golang, Python, HTML5, CSS3, and LLM-driven development
 
-Proficient in JavaScript/TypeScript, Golang, Python, HTML5, CSS3, and LLM development
-Skilled in front-end and back-end frameworks such as React, Node.js, Django, and Next.js
-Hands-on experience with cloud services and IaaS for scalable and reliable deployments
+Experienced with React, Node.js, Django, Next.js for front- and back-end engineering
 
-Security+ Certified with a focus on secure coding and network security
-Aiming to bring empathy and ethics into security education, advocating for digital safety and awareness, especially for future generations
+Skilled in cloud services & IaaS for scalable, reliable deployments
 
-## My Vision
-I’m a systems thinker and lifelong learner, continuously working to fuse technology, empathy, and creativity. Whether through secure applications, transformative platforms, LLM feature and platform development, or meaningful content, my goal is to make a positive, lasting impact in tech and beyond.
+### Security & Privacy
 
-Thanks for visiting my repository, and feel free to reach out if you’d like to collaborate, discuss projects, or simply connect!
+Security+ Certified with practical focus on secure coding, network defense, and ethical hacking
 
-I have multiple other repos connected to me, so what you see here is only part of my work.
+Hands-on experience in pentesting, red teaming, and privacy-focused development
+
+Advocate for digital safety and awareness, aiming to educate and protect future generations via my [Randy and the Techpocalypse](https://randallthomastech.com/techpocalypse) platform
+
+### My Vision
+
+I’m a systems thinker and lifelong learner, always exploring how technology, empathy, and creativity intersect. My mission is to design and defend systems that are not only technically excellent but also human-centered—building applications, platforms, and educational tools that advance security, privacy, and digital resilience.
+
+**I have multiple other repos connected to me, so what you see here is only part of my work.**
 
 
 
