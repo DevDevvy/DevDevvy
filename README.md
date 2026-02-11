@@ -1,4 +1,4 @@
-
+<h1 align="center">👋 Hi, I’m Randall - I do full-stack development, cybersecurity and OSINT, creative work and multimedia editing on the side </h1>
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,7 +13,7 @@
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  	![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-<h1 align="center">👋 Hi, I’m Randall - Developer and Creative</h1>
+
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/m1ghtymax.png)](https://tryhackme.com/p/m1ghtymax)
 
